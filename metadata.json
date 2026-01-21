@@ -1,0 +1,7 @@
+{
+  "name": "Dealer Engine Terminal",
+  "description": "A Bloomberg-style retail crypto trading terminal featuring real-time derivatives analytics, whale activity tracking, and AI-powered signal generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
